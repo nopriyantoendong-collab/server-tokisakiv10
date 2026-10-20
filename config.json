@@ -1,6 +1,6 @@
 {
-  "panel_url": "sange enak banget",
-  "api_url": "kontol",
-  "port": 3014,
+  "panel_url": "http://38.253.224.75:3418",
+  "api_url": "http://38.253.224.75:3418",
+  "port": 3418,
   "version": 1
 }
