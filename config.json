@@ -1,6 +1,6 @@
 {
-  "panel_url": "http://panel-private-azka.my.id:3544",
-  "api_url": "http://panel-private-azka.my.id:3544",
+  "panel_url": "http://163.52.135.119:3544",
+  "api_url": "http://163.52.135.119:3544",
   "port": 3544,
   "version": 1
 }
